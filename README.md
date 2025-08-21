@@ -1,4 +1,4 @@
-## 🔎 Key Insights from Zomato YoY Sales Analysis
+## 🔎 Zomato YoY Sales Analysis
 
 ### 📌 Project Overview
 
